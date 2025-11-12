@@ -1,7 +1,7 @@
 {
-  "name": "starxd",
+  "name": "folks xd",
   "version": "2.0.0",
-  "description": "WhatsApp Bot by Malvin King",
+  "description": "WhatsApp Bot by lasith maduvantha",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
